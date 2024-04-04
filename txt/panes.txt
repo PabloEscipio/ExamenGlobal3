@@ -1,0 +1,2 @@
+Nombre: Bollo	Precio: 2.5	Cantidad de azucar: 6g
+Nombre: Panecillo	Precio: 1.5	Cantidad de azucar: 4g
